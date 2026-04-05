@@ -2,9 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: >
-  University of California, Santa Barbara<br>
-  Santa Barbara, California 93106
+subtitle:
   
 profile:
   align: left
