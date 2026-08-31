@@ -2,27 +2,22 @@
 layout: about
 title: Kajari Saha
 permalink: /
-description: Ph.D. candidate in Economics at UC Santa Barbara. Research on development economics and gender — policy, environmental shocks, and social institutions in low- and middle-income countries.
 subtitle:
-  
+
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
-  image_circular: false
-  more_info: >
-    <p style="margin-top: 10px;">
-      <a href="assets/pdf/CV_Kajari_03052026.pdf" style="margin-right: 8px; color: inherit; font-size: 2rem;">CV</a>
-      <a href="mailto:kajari@ucsb.edu" style="margin-right: 8px; color: inherit; font-size: 2rem;"><i class="fas fa-envelope"></i></a>
-      <a href="https://scholar.google.com/citations?user=yx2OavQAAAAJ" style="margin-right: 8px; color: inherit;font-size: 2rem;"><i class="ai ai-google-scholar"></i></a>
-      <a href="https://www.linkedin.com/in/kajari-saha-a17a5a152/" style="color: inherit; font-size: 2rem;"><i class="fab fa-linkedin"></i></a>
-    </p>
-    
+  image_circular: true
+  more_info:
+
 news: false
 latest_posts: false
 selected_papers: false
 social: false
 ---
 
-I am a fifth-year Ph.D. candidate in Economics at the University of California, Santa Barbara. My research sits at the intersection of development economics and gender. My work focuses on how policy interventions, environmental shocks, and social institutions shape gendered socioeconomic outcomes in low and middle-income countries. I combine causal inference methods with administrative and survey data to establish relationships that have direct policy relevance. You can find more about my research here.
+I am a Ph.D. candidate in Economics at the University of California, Santa Barbara. My research sits at the intersection of development economics and gender. My work focuses on how policy interventions, environmental shocks, and social institutions shape gendered socioeconomic outcomes in low and middle-income countries. I combine causal inference methods with administrative and survey data to establish relationships that have direct policy relevance. You can find more about my research [here](/projects/).
+
+Email: [kajari@ucsb.edu](mailto:kajari@ucsb.edu)
 
 
