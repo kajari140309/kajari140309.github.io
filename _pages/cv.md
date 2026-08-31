@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: CURRICULUM VITAE
 permalink: /cv/
 nav: true
 nav_order: 3
