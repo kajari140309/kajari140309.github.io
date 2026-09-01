@@ -8,11 +8,11 @@ nav_order: 2
 
 ## Works in Progress
 
-**Weathering Violence in India: Climate Shocks and Spousal Abuse**
-[\[Abstract\]](#abstract-climate) [\[Paper\]](#)
+**Weather Shocks, Credit Access and Intimate Partner Violence in India** *(Job Market Paper)*
+<br>[\[Abstract\]](#abstract-climate) [\[Draft\]](https://drive.google.com/file/d/1iDX8D-oc-Q5tuSS7oihSn8OX44aYHxG0/preview)
 
 <div id="abstract-climate" style="display:none; margin: 10px 0 20px 20px; font-style: italic;">
-This study investigates the causal relationship between weather shocks and women’s experiences of intimate partner violence (IPV) in rural India. Using geo-coded weather data linked to domestic violence reports from the two recent rounds of the Indian National Family Health Survey (NFHS 2015–16 and 2019–21), I find that exposure to droughts, heat and cold during the growing season significantly increases the likelihood of women experiencing IPV. Specifically, exposure to a drought during the growing season increases the prevalence of overall IPV by 6.5%, and physical IPV by 13.2%. Heat and cold stress during the growing season also have independent effects on IPV, comparable in magnitude to those of drought. Additional heterogeneity analyses provides suggestive evidence that household access to bank accounts helps mitigate the impact of drought on IPV, highlighting the potential role of financial instruments as a key mitigating factor against weather-induced violence against women.
+This study examines how weather shocks affect women’s exposure to intimate partner violence (IPV) in rural India. I link geocoded weather data to women’s reports of IPV from the 2015–16 and 2019–21 rounds of India’s National Family Health Survey. Exposure to drought and extreme heat during the primary growing season significantly increases IPV. Growing-season drought raises overall IPV by 11.3\% and physical IPV by 11.8\%, while heat has smaller but significant effects. Consistent with an income channel, access to formal finance mitigates the effect of drought on IPV. At the household level, access to bank accounts attenuates the drought–IPV relationship. At the district level, the composition of credit matters: agricultural lending - particularly credit provided directly to farmers - significantly attenuates the effect of drought on IPV, while indirect, agribusiness-linked agricultural credit and non-agricultural credit do not. Finally, the substantially larger effects of wet-bulb heat extremes relative to dry-bulb heat extremes are consistent with a more immediate, heat-induced physiological stress channel.
 </div>
 
 ---
