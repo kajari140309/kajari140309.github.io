@@ -22,6 +22,7 @@ My research sits at the intersection of gender and development economics, with a
 
 I am on the job market in 2026-2027.
 
-Email: [kajari@ucsb.edu](mailto:kajari@ucsb.edu)
-
-
+- **Email:** [kajari@ucsb.edu](mailto:kajari@ucsb.edu)
+- **CV:** [Download PDF](https://drive.google.com/file/d/1_b-xR5wF9-ICV63lPZzTF8xrPLXER3HK/preview)
+- **Google Scholar:** [Profile](https://scholar.google.com/citations?user=yx2OavQAAAAJ)
+- **LinkedIn:** [Profile](https://www.linkedin.com/in/kajari-saha-a17a5a152/)
